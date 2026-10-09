@@ -1,0 +1,5 @@
+Strategy,High,Medium,Low,Average Profit,Average Unmet Demand,Average Leftover Inventory,Profit Difference Comparison,Profit Difference,Validation Seed,Validation Scenarios
+H1000,1000,0,0,30890.686,100.698,101.2146,,,2026,10000
+Mix-2,965,0,302,33002.192,17.8718,285.3884,,,2026,10000
+Solver-100,788,0,451,34317.967,22.2513,261.7679,Solver-100 minus Mix-2,1315.7749999999942,2026,10000
+Solver-5000,771,0,487,34343.2545,19.1973,277.7139,Solver-5000 minus Solver-100,25.28750000000582,2026,10000

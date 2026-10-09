@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="520" viewBox="0 0 860 520">
+<rect width="100%" height="100%" fill="white"/>
+<text x="430" y="27" text-anchor="middle" font-family="Arial" font-size="20" font-weight="bold">Optimal Purchase Quantity by Demand Volatility</text>
+<line x1="90" y1="445.0" x2="825" y2="445.0" stroke="#e5e7eb"/>
+<text x="78" y="450.0" text-anchor="end" font-family="Arial" font-size="12">0</text>
+<line x1="90" y1="365.0" x2="825" y2="365.0" stroke="#e5e7eb"/>
+<text x="78" y="370.0" text-anchor="end" font-family="Arial" font-size="12">200</text>
+<line x1="90" y1="285.0" x2="825" y2="285.0" stroke="#e5e7eb"/>
+<text x="78" y="290.0" text-anchor="end" font-family="Arial" font-size="12">400</text>
+<line x1="90" y1="205.0" x2="825" y2="205.0" stroke="#e5e7eb"/>
+<text x="78" y="210.0" text-anchor="end" font-family="Arial" font-size="12">600</text>
+<line x1="90" y1="125.0" x2="825" y2="125.0" stroke="#e5e7eb"/>
+<text x="78" y="130.0" text-anchor="end" font-family="Arial" font-size="12">800</text>
+<line x1="90" y1="45.0" x2="825" y2="45.0" stroke="#e5e7eb"/>
+<text x="78" y="50.0" text-anchor="end" font-family="Arial" font-size="12">1000</text>
+<text x="90.0" y="470" text-anchor="middle" font-family="Arial" font-size="12">100</text>
+<text x="181.9" y="470" text-anchor="middle" font-family="Arial" font-size="12">150</text>
+<text x="365.6" y="470" text-anchor="middle" font-family="Arial" font-size="12">250</text>
+<text x="549.4" y="470" text-anchor="middle" font-family="Arial" font-size="12">350</text>
+<text x="825.0" y="470" text-anchor="middle" font-family="Arial" font-size="12">500</text>
+<line x1="90" y1="45" x2="90" y2="445" stroke="#111827"/>
+<line x1="90" y1="445" x2="825" y2="445" stroke="#111827"/>
+<text x="457.5" y="500" text-anchor="middle" font-family="Arial" font-size="14">Demand SD</text>
+<text x="22" y="245.0" text-anchor="middle" transform="rotate(-90 22 245.0)" font-family="Arial" font-size="14">Optimal Purchase Quantity</text>
+<polyline points="90.0,81.8 181.9,100.2 365.6,136.6 549.4,173.4 825.0,228.6" fill="none" stroke="#2563eb" stroke-width="3"/>
+<circle cx="90.0" cy="81.8" r="4" fill="#2563eb"/>
+<circle cx="181.9" cy="100.2" r="4" fill="#2563eb"/>
+<circle cx="365.6" cy="136.6" r="4" fill="#2563eb"/>
+<circle cx="549.4" cy="173.4" r="4" fill="#2563eb"/>
+<circle cx="825.0" cy="228.6" r="4" fill="#2563eb"/>
+<line x1="90" y1="472" x2="118" y2="472" stroke="#2563eb" stroke-width="3"/>
+<text x="126" y="477" font-family="Arial" font-size="13">High</text>
+<polyline points="90.0,445.0 181.9,445.0 365.6,445.0 549.4,445.0 825.0,445.0" fill="none" stroke="#f59e0b" stroke-width="3"/>
+<circle cx="90.0" cy="445.0" r="4" fill="#f59e0b"/>
+<circle cx="181.9" cy="445.0" r="4" fill="#f59e0b"/>
+<circle cx="365.6" cy="445.0" r="4" fill="#f59e0b"/>
+<circle cx="549.4" cy="445.0" r="4" fill="#f59e0b"/>
+<circle cx="825.0" cy="445.0" r="4" fill="#f59e0b"/>
+<line x1="345" y1="472" x2="373" y2="472" stroke="#f59e0b" stroke-width="3"/>
+<text x="381" y="477" font-family="Arial" font-size="13">Medium</text>
+<polyline points="90.0,367.0 181.9,327.8 365.6,250.2 549.4,172.2 825.0,55.4" fill="none" stroke="#16a34a" stroke-width="3"/>
+<circle cx="90.0" cy="367.0" r="4" fill="#16a34a"/>
+<circle cx="181.9" cy="327.8" r="4" fill="#16a34a"/>
+<circle cx="365.6" cy="250.2" r="4" fill="#16a34a"/>
+<circle cx="549.4" cy="172.2" r="4" fill="#16a34a"/>
+<circle cx="825.0" cy="55.4" r="4" fill="#16a34a"/>
+<line x1="600" y1="472" x2="628" y2="472" stroke="#16a34a" stroke-width="3"/>
+<text x="636" y="477" font-family="Arial" font-size="13">Low</text>
+</svg>

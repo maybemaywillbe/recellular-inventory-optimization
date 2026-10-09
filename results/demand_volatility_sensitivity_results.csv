@@ -1,0 +1,6 @@
+Demand SD,Optimal High,Optimal Medium,Optimal Low,Training Average Profit,Validation Average Profit,Validation Average Unmet Demand,Validation Average Leftover Inventory,MIP Gap,Status
+100,908,0,195,37672.373,37737.3275,7.7088,110.9148,0.0,Optimal
+150,862,0,293,36508.387,36606.103,11.4866,166.7986,0.0,Optimal
+250,771,0,487,34180.458,34343.2545,19.1973,277.7139,0.0,Optimal
+350,679,0,682,31867.143,32096.3935,26.9037,388.4543,0.0,Optimal
+500,541,0,974,28771.332,29076.372,38.5397,550.2454,0.0,Optimal

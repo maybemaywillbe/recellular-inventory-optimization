@@ -1,0 +1,8 @@
+Medium Acquisition Cost,Optimal High,Optimal Medium,Optimal Low,Optimal Total Purchase,Training Average Profit,MIP Gap,Status
+35,771,0,487,1258,34180.458,0.0,Optimal
+30,88,766,404,1258,34843.582,0.0,Optimal
+25,0,955,303,1258,39373.468,0.0,Optimal
+20,0,1044,214,1258,44364.878,0.0,Optimal
+15,0,1133,125,1258,49797.112,0.0,Optimal
+10,0,1258,0,1258,55745.432,0.0,Optimal
+5,0,1361,0,1361,62271.896,0.0,Optimal

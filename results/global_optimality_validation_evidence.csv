@@ -1,0 +1,2 @@
+Workbook,Workbook SHA-256,Demand SHA-256,Scenario Count,HiGHS Version,Configured MIP Relative Gap,Log To Console,Log File,Solver Status,Optimal High,Optimal Medium,Optimal Low,Objective,Average Profit,Best Bound,MIP Gap,Profit Recalculation Difference,Maximum Scenario Profit Difference
+data/ReCellular_Inventory_Planning.xlsx,0cf50d6221f3e2f714287b61fd361c9d4a6d262779946dbe427121d48e2e2fbb,dd42055f30216161a3eb058c2059d72ce982b2bdb3aac0a9799d01ee1025ec9b,100,1.15.1,0.0,False,results/global_optimality_validation_highs.log,Optimal,788,0,451,34393.3,34393.3,34393.3,0.0,0.0,0.0
