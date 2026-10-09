@@ -2,7 +2,7 @@
 
 An inventory-planning portfolio project that examines how a remanufacturer can choose a mix of product grades before demand is known. The project combines an interpretable Excel model, mixed-integer linear programming (MILP), Monte Carlo validation, and sensitivity analysis.
 
-All profits and operating measures in this repository are simulated model outputs, not actual ReCellular business results.
+This is an independent optimization and simulation project based on the public teaching case by Mutha, Bansal, and Guide (2021), [“Case—ReCellular Inc: Managing Demand Uncertainty in Closed-Loop Remanufacturing,” *INFORMS Transactions on Education*, 24(1), 13–16](https://doi.org/10.1287/ited.2021.0254cs). The accompanying teaching analysis is available at [https://doi.org/10.1287/ited.2021.0254ca](https://doi.org/10.1287/ited.2021.0254ca). This project is not an operational deployment by ReCellular; all profits and operating measures are simulated model outputs.
 
 ## Business problem
 
@@ -131,7 +131,6 @@ The 100-scenario optimality certificate and complete solver log are stored in [`
 ## Limitations
 
 - The project uses simulated demand and teaching-case parameters rather than current company operating data.
-- The precise bibliographic source for the case parameters has not been independently verified.
 - HiGHS proves optimality for each finite scenario sample, not for the full continuous demand distribution.
 - The model assumes zero salvage value and excludes capacity, budget, lead-time, supply uncertainty, and minimum-order constraints.
 - Sample-average solutions depend on the recorded random seeds and finite scenarios.
